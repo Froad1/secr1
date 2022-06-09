@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9346466f-f42a-4a37-9c65-85cba8802ee1" name="Changes" comment="" />
+    <list default="true" id="9346466f-f42a-4a37-9c65-85cba8802ee1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css-app.1c7a44b3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css-app.1c7a44b3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/js-app.3783fa46.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/js-app.3783fa46.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/js-chunk-vendors.a8be3896.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/js-chunk-vendors.a8be3896.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2AGG20yYzRbMDP8ySY0NtLzfMg9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +34,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ytsni/Downloads/my.fundocs.net-985",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,11 +47,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654628309649</updated>
-      <workItem from="1654628311008" duration="415000" />
+      <workItem from="1654628311008" duration="1124000" />
+      <workItem from="1654768587495" duration="2301000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
