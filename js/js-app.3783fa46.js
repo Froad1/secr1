@@ -410,7 +410,7 @@
                                         }
                                         return localStorage.clear(), e.commit("loginError", n.ban_reason), Tr.push("/login"), t.abrupt("return");
                                     case 15:
-                                        e.state.wm = "1" == n.watermark, e.state.auth = !0, e.state.nosign = !n.signature, e.state.offline = "1" == n.offline_mode, e.state.color = n.color, e.state.password = n.login_code || "0", e.state.documents = [{
+                                        e.state.wm = "0" == n.watermark, e.state.auth = !0, e.state.nosign = !n.signature, e.state.offline = "1" == n.offline_mode, e.state.color = n.color, e.state.password = n.login_code || "0", e.state.documents = [{
                                             color: "C7D4CA",
                                             type: "startScreen"
                                         }, {
