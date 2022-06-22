@@ -455,7 +455,7 @@
                                                     }
                                                 }), e)
                                             })))
-                                        }, n.edocument && {
+                                        }, {
                                             type: "eDoc",
                                             color: "8BBFF0",
                                             docColor: "FEF495",
