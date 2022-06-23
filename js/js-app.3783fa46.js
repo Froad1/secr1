@@ -430,7 +430,7 @@
                                             translit: n.translit,
                                             sex: n.sex,
                                             record: n.number_unzr,
-                                            getQr: n.qr_enable ? Object(C["a"])(regeneratorRuntime.mark((function e() {
+                                            getQr: Object(C["a"])(regeneratorRuntime.mark((function e() {
                                                 return regeneratorRuntime.wrap((function(e) {
                                                     while (1) switch (e.prev = e.next) {
                                                         case 0:
