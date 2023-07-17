@@ -3398,7 +3398,7 @@
             }),
             Tr = Hr,
             Qr = (n("a766"), n("9483"));
-        Object(Qr["a"])("".concat("/", "service-worker.js"), {
+        Object(Qr["a"])("".concat("./", "service-worker.js"), {
             ready: function() {
                 console.log("App is being served from cache by a service worker.\nFor more details, visit https://goo.gl/AFskqB")
             },
